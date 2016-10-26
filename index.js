@@ -33,9 +33,9 @@ var thatOnePrinceSong = 1999;
 *
 * Their values should be a Boolean
 **/
-var isDaytime = true
-var isLeftHanded = false
-var inHawaii = true
+var isDaytime = true;
+var isLeftHanded = false;
+var inHawaii = true;
 /**
 * #4
 * Variables with null
@@ -44,8 +44,8 @@ var inHawaii = true
 *
 * Their values should be a Null value
 **/
-var enrolledAtDevLeague = null
-var completedFridayPrep = null
+var enrolledAtDevLeague = null;
+var completedFridayPrep = null;
 
 /**
 * #5a
@@ -55,7 +55,7 @@ var completedFridayPrep = null
 * This Array contains the names of all the states
 * which can be found along the west coast of The United States.
 **/
-var westCoast = ["California", "Oregon", "Washington",]
+var westCoast = ["California", "Oregon", "Washington",];
 
 
 /**
@@ -66,7 +66,7 @@ var westCoast = ["California", "Oregon", "Washington",]
 * This Array contains numbers that are considered 'even values'.
 * Have at least ten even values in this array.
 **/
-var evenNumbers = [2, 22, 222, 2222, 22222, 4, 44, 444, 4444, 44444,]
+var evenNumbers = [2, 22, 222, 2222, 22222, 4, 44, 444, 4444, 44444,];
 
 
 /**
@@ -79,7 +79,7 @@ var evenNumbers = [2, 22, 222, 2222, 22222, 4, 44, 444, 4444, 44444,]
 *
 * Extend this behavior to include subtraction, multiplication and division.
 */
-var sumOfNumbers = [1+2+3-3*2/1]
+var sumOfNumbers = [1+2+3-3*2/1];
 
 
 
@@ -98,7 +98,7 @@ var sumOfNumbers = [1+2+3-3*2/1]
 *   See if you can come up with a few examples of double comparison
 *   operator(==) vs triple comparison operator(===).
 */
-var isEqual = "Tacocat"=="tacocat"
+var isEqual = "Tacocat"=="tacocat";
 console.log(1 == "1"); //true
 console.log(1 === "1"); //false
 /**
@@ -115,7 +115,7 @@ console.log(1 === "1"); //false
 *   The tests for this section cannot test your variable as it changes,
 *   it can only test that you declared the variable by giving it the right name.
 */
-var generalContainer = [1, 2, 3, 4, 5,]
+var generalContainer = [1, 2, 3, 4, 5,];
 /**
 * #7a
 * Declare Functions
