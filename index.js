@@ -127,9 +127,11 @@ var generalContainer = [1, 2, 3, 4, 5,];
 *
 * Store the return value to a variable named `jumpResult`
 **/
+function jump(height){
+  return("You jumped " + height + " feet high!")
+}
 
-
-
+jump(9)
 /**
 * #7b
 * Declare Functions
@@ -139,4 +141,6 @@ var generalContainer = [1, 2, 3, 4, 5,];
 * This function should return a String along the lines of, "Tomatoes and Cheese make a Pizza!"
 * if invoked in this way -> cook("Tomatoes", "Cheese", "Pizza");
 **/
-
+function cook("ingredient1", "ingredient2", "recipeName") {
+  return(ingredient1 + "and" + ingredient2 " make a " + recipeName)
+}
